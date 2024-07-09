@@ -12,6 +12,7 @@ Wrapper classes in Java provide a way to use primitive data types as objects. Ea
 - `double` -> `Double`
 - `boolean` -> `Boolean`
 - `char` -> `Character`
+```
 
 ### Usage Examples:
 

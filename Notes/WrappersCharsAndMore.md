@@ -15,8 +15,7 @@ Wrapper classes in Java provide a way to use primitive data types as objects. Ea
 ```
 
 ### Usage Examples:
-
-```markdown
+```java
 // Boxing: Converting primitive to wrapper
 Integer wrappedInt = Integer.valueOf(42);
 Double wrappedDouble = Double.valueOf(3.14);

@@ -7,7 +7,7 @@
 3. [Java Wrapper Classes, Math, Character, and String Class](/Notes/WrappersCharsAndMore.md#java-wrapper-classes-math-character-and-string-class)
 4. [Conditional Statements and Flow Control](/Notes/Conditionals.md#conditional-statements-and-flow-control)
 5. [Iteration Statements (Loops)](/Notes/loops.md#iteration-statements-loops)
-6. [Java Arrays](/Notes/Array%20Basics.md#java-arrays)
+6. [Java Arrays](/Notes/ArrayBasics.md#java-arrays)
 7. [Array Processing and Manipulation](/Notes/Array%20Processing%20and%20Manipulation.md#array-processing-and-manipulation)
 8. [Java Classes, Methods, Constructors, Objects, Access Modifiers, and Overloading](/Notes/Java%20Classes,%20Methods,%20and%20More.md#java-classes-methods-constructors-objects-access-modifiers-and-overloading)
 9. [Java Encapsulation and Inheritance](/Notes/Java%20Encpsulation%20and%20Inheritence.md#java-encapsulation-and-inheritance)

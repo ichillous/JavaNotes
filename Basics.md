@@ -9,7 +9,6 @@ Java is a popular, object-oriented programming language known for its "write onc
 * Java is strongly typed and uses curly braces to define code blocks
 
 Here's a simple "Hello World" program in Java:
-```markdown
 
 ```java
 public class HelloWorld {

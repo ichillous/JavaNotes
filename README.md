@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [Introduction to Java [[Basics.md#introduction-to-java-basics)]]
+1. [Introduction to Java] [[Basics.md#introduction-to-java-basics)]]
 2. [Java Programming Fundamentals](Fundementals.md#java-programming-fundamentals)
 3. [Java Wrapper Classes, Math, Character, and String Class](WrappersCharsAndMore.md#java-wrapper-classes-math-character-and-string-class)
 4. [Conditional Statements and Flow Control](Conditionals.md#conditional-statements-and-flow-control)

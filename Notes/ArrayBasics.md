@@ -1,4 +1,4 @@
-# Java Arrays
+# Basic Java Arrays
 
 ## Introduction to Arrays
 

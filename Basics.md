@@ -2,7 +2,6 @@
 
 ## Introduction to Java Basics
 
-```markdown
 Java is a popular, object-oriented programming language known for its "write once, run anywhere" capability. Here are some key points about Java:
 
 * Java programs are compiled into bytecode, which runs on the Java Virtual Machine (JVM)
@@ -10,6 +9,7 @@ Java is a popular, object-oriented programming language known for its "write onc
 * Java is strongly typed and uses curly braces to define code blocks
 
 Here's a simple "Hello World" program in Java:
+```markdown
 
 ```java
 public class HelloWorld {

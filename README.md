@@ -28,10 +28,10 @@ Prompts
 When using Claude AI to help with your contributions, follow this general structure for your prompts:
 
 
-Topic: [Specific Java topic you're working on]
-Current Understanding: [Brief description of what you already know or think you know about the topic]
-Learning Goal: [What you want to learn or clarify about the topic]
-Request: [Specific ask for Claude, e.g., explanation, code example, best practices]
+- Topic: [Specific Java topic you're working on]
+- Current Understanding: [Brief description of what you already know or think you know about the topic]
+- Learning Goal: [What you want to learn or clarify about the topic]
+- Request: [Specific ask for Claude, e.g., explanation, code example, best practices]
 
 Example Prompt:
 ```

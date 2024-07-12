@@ -2,24 +2,6 @@
 
 This repository contains notes on various Java topics. Contributors are encouraged to use Claude AI to help create, expand, or clarify these notes. Below is a template for how to structure your prompts when working with Claude AI.
 
-## How to Use Claude AI for Contributing
-
-When using Claude AI to help with your contributions, follow this general structure for your prompts:
-
-```
-Topic: [Specific Java topic you're working on]
-Current Understanding: [Brief description of what you already know or think you know about the topic]
-Learning Goal: [What you want to learn or clarify about the topic]
-Request: [Specific ask for Claude, e.g., explanation, code example, best practices]
-
-Example Prompt:
-
-Topic: Java Generics
-Current Understanding: I know that generics allow for type-safe collections, but I'm not sure about the details of how to implement them or when to use them.
-Learning Goal: To understand how to create and use generic classes and methods, and to know best practices for working with generics.
-Request: Can you provide an explanation of Java generics with a simple code example, and then list some best practices for using generics in Java?
-```
-
 ### Tips for Effective Prompts:
 1. Be specific about the Java topic you're addressing.
 2. Clearly state your current level of understanding.
@@ -63,7 +45,25 @@ Remember, while Claude AI is a powerful tool, always verify the information prov
 Prompts 
 </summary>
 
-### Interactive Java Teacher Prompt for Claude AI
+## How to Use Claude AI for Contributing
+
+When using Claude AI to help with your contributions, follow this general structure for your prompts:
+
+```
+Topic: [Specific Java topic you're working on]
+Current Understanding: [Brief description of what you already know or think you know about the topic]
+Learning Goal: [What you want to learn or clarify about the topic]
+Request: [Specific ask for Claude, e.g., explanation, code example, best practices]
+
+Example Prompt:
+
+Topic: Java Generics
+Current Understanding: I know that generics allow for type-safe collections, but I'm not sure about the details of how to implement them or when to use them.
+Learning Goal: To understand how to create and use generic classes and methods, and to know best practices for working with generics.
+Request: Can you provide an explanation of Java generics with a simple code example, and then list some best practices for using generics in Java?
+```
+
+## Interactive Java Teacher Prompt for Claude AI
 Use the following prompt to transform Claude AI into an interactive Java teacher:
 CopyI want you to act as an experienced Java teacher and mentor. Your role is to help me learn Java concepts, answer my questions, and guide me through programming challenges. Please follow these guidelines:
 
@@ -85,4 +85,5 @@ Copy the entire prompt above.
 Replace "[Insert your Java-related question here]" with your specific Java question.
 Paste the modified prompt into your conversation with Claude AI.
 Engage with Claude as if it were your Java teacher, asking questions and responding to its follow-up queries.
-<details close> 
+
+

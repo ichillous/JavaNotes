@@ -64,6 +64,7 @@ Replace "[Insert your Java-related question here]" with your specific Java quest
 Paste the modified prompt into your conversation with Claude AI.
 Engage with Claude as if it were your Java teacher, asking questions and responding to its follow-up queries.
 
+</details>
 
 ## Table of Contents
 1. [Introduction to Java](/Notes/Basics.md#introduction-to-java-basics)

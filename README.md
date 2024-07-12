@@ -21,7 +21,6 @@ Request: Can you provide an explanation of Java generics with a simple code exam
 ```
 
 ### Tips for Effective Prompts:
-
 1. Be specific about the Java topic you're addressing.
 2. Clearly state your current level of understanding.
 3. Define your learning goal or what you hope to achieve.
@@ -29,7 +28,6 @@ Request: Can you provide an explanation of Java generics with a simple code exam
 5. If you need clarification, don't hesitate to ask follow-up questions.
 
 ### Contributing Process:
-
 1. Choose a Java topic from the issues list or create a new one.
 2. Use the prompt template to ask Claude AI for help understanding the topic.
 3. Review and refine the information provided by Claude.
@@ -38,10 +36,8 @@ Request: Can you provide an explanation of Java generics with a simple code exam
 
 Remember, while Claude AI is a powerful tool, always verify the information provided and test any code examples. Happy learning and contributing!
 
-## 
 
 ## Table of Contents
-
 1. [Introduction to Java](/Notes/Basics.md#introduction-to-java-basics)
 2. [Java Programming Fundamentals](/Notes/Fundementals.md#java-programming-fundamentals)
 3. [Java Wrapper Classes, Math, Character, and String Class](/Notes/WrappersCharsAndMore.md#java-wrapper-classes-math-character-and-string-class)
@@ -62,3 +58,26 @@ Remember, while Claude AI is a powerful tool, always verify the information prov
 
 - [Java Format Specifiers](/Notes/format-specifiers.md#)
 
+## Prompts 
+### Interactive Java Teacher Prompt for Claude AI
+Use the following prompt to transform Claude AI into an interactive Java teacher:
+CopyI want you to act as an experienced Java teacher and mentor. Your role is to help me learn Java concepts, answer my questions, and guide me through programming challenges. Please follow these guidelines:
+
+1. Provide clear and concise explanations of Java concepts.
+2. Use code examples to illustrate your points when appropriate.
+3. After answering my questions, ask me follow-up questions to check my understanding or to explore related concepts.
+4. If I make a mistake or show a misconception, gently correct me and explain the right approach.
+5. Encourage best practices and explain why they are important.
+6. If I'm stuck, provide hints rather than immediate solutions to help me think through the problem.
+7. Adapt your teaching style based on my responses and level of understanding.
+8. Suggest small coding exercises or projects that can help reinforce the concepts we discuss.
+
+My first question is: [Insert your Java-related question here]
+
+Remember to maintain this teaching persona throughout our conversation, always aiming to deepen my understanding of Java.
+How to Use This Prompt:
+
+Copy the entire prompt above.
+Replace "[Insert your Java-related question here]" with your specific Java question.
+Paste the modified prompt into your conversation with Claude AI.
+Engage with Claude as if it were your Java teacher, asking questions and responding to its follow-up queries.

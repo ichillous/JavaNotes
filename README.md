@@ -60,7 +60,7 @@ Remember, while Claude AI is a powerful tool, always verify the information prov
 
 <details open>
 <summary>
-## Prompts 
+Prompts 
 </summary>
 
 ### Interactive Java Teacher Prompt for Claude AI

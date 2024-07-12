@@ -27,14 +27,14 @@ Prompts
 
 When using Claude AI to help with your contributions, follow this general structure for your prompts:
 
-```
+
 Topic: [Specific Java topic you're working on]
 Current Understanding: [Brief description of what you already know or think you know about the topic]
 Learning Goal: [What you want to learn or clarify about the topic]
 Request: [Specific ask for Claude, e.g., explanation, code example, best practices]
 
 Example Prompt:
-
+```
 Topic: Java Generics
 Current Understanding: I know that generics allow for type-safe collections, but I'm not sure about the details of how to implement them or when to use them.
 Learning Goal: To understand how to create and use generic classes and methods, and to know best practices for working with generics.
@@ -58,14 +58,13 @@ I want you to act as an experienced Java teacher and mentor. Your role is to hel
 Remember to maintain this teaching persona throughout our conversation, always aiming to deepen my understanding of Java.
 My first question is: [Insert your Java-related question here]
 ```
-Remember to maintain this teaching persona throughout our conversation, always aiming to deepen my understanding of Java.
-How to Use This Prompt:
+
+#### How to Use This Prompt:
 
 Copy the entire prompt above.
 Replace "[Insert your Java-related question here]" with your specific Java question.
 Paste the modified prompt into your conversation with Claude AI.
 Engage with Claude as if it were your Java teacher, asking questions and responding to its follow-up queries.
-
 </details>
 
 ## Table of Contents

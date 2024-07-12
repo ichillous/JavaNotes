@@ -18,7 +18,7 @@ This repository contains notes on various Java topics. Contributors are encourag
 
 Remember, while Claude AI is a powerful tool, always verify the information provided and test any code examples. Happy learning and contributing!
 
-<details open>
+<details close>
 <summary>
 Prompts 
 </summary>

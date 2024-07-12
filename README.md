@@ -17,5 +17,8 @@
 13. [Java Files and Java IO](/Notes/JavaFilesandJavaIO.md#)
 14. [Functional Programming and Lambda Expressions](/Notes/functional-programming-and-lambda-expressions.md#)
 
+### Extras:
+[System.out examples ](/Notes/system-out.md#)
+
 
 Feel free to update it with whatever you think would help new Java Devs! <3

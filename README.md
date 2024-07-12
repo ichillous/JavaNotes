@@ -18,7 +18,8 @@
 14. [Functional Programming and Lambda Expressions](/Notes/functional-programming-and-lambda-expressions.md#)
 
 ### Extras:
-[System.out examples ](/Notes/system-out.md#)
-[Java Format Specifiers](/Notes/format-specifiers.md#)
+- [System.out examples ](/Notes/system-out.md#)
+
+- [Java Format Specifiers](/Notes/format-specifiers.md#)
 
 Feel free to update it with whatever you think would help new Java Devs! <3

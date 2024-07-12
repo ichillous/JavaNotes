@@ -58,7 +58,11 @@ Remember, while Claude AI is a powerful tool, always verify the information prov
 
 - [Java Format Specifiers](/Notes/format-specifiers.md#)
 
+<details open>
+<summary>
 ## Prompts 
+</summary>
+
 ### Interactive Java Teacher Prompt for Claude AI
 Use the following prompt to transform Claude AI into an interactive Java teacher:
 CopyI want you to act as an experienced Java teacher and mentor. Your role is to help me learn Java concepts, answer my questions, and guide me through programming challenges. Please follow these guidelines:
@@ -81,3 +85,4 @@ Copy the entire prompt above.
 Replace "[Insert your Java-related question here]" with your specific Java question.
 Paste the modified prompt into your conversation with Claude AI.
 Engage with Claude as if it were your Java teacher, asking questions and responding to its follow-up queries.
+<details close> 

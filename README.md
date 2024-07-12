@@ -38,6 +38,8 @@ Request: Can you provide an explanation of Java generics with a simple code exam
 
 Remember, while Claude AI is a powerful tool, always verify the information provided and test any code examples. Happy learning and contributing!
 
+## 
+
 ## Table of Contents
 
 1. [Introduction to Java](/Notes/Basics.md#introduction-to-java-basics)

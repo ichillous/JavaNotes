@@ -19,6 +19,6 @@
 
 ### Extras:
 [System.out examples ](/Notes/system-out.md#)
-
+[Java Format Specifiers](/Notes/format-specifiers.md#)
 
 Feel free to update it with whatever you think would help new Java Devs! <3

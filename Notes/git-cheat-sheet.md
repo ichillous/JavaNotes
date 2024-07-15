@@ -1,4 +1,4 @@
-![[Screenshot 2024-07-08 at 4.41.07 PM.png]]
+![[directory-strcut-ex.png]]
 ### Terminal commands:
 
 1. ls - List directory contents Example: `ls -la`
@@ -81,5 +81,5 @@ isiahchillous Desktop/test/git git %
 
 ### Results in Github : 
 
-![[Screenshot 2024-07-08 at 3.57.51 PM.png]]
+![[github-screenshot.png]]
 

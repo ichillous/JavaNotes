@@ -46,7 +46,9 @@ Remember, while Claude AI is a powerful tool, always verify the information prov
 
 <details close>
 <summary>
-Prompts 
+  
+### Prompts : 
+
 </summary>
 
 ## How to Use Claude AI for Contributing
@@ -58,6 +60,7 @@ When using Claude AI to help with your contributions, follow this general struct
 - Current Understanding: [Brief description of what you already know or think you know about the topic]
 - Learning Goal: [What you want to learn or clarify about the topic]
 - Request: [Specific ask for Claude, e.g., explanation, code example, best practices]
+- Format: README.md style
 
 Example Prompt:
 ```
@@ -65,6 +68,7 @@ Topic: Java Generics
 Current Understanding: I know that generics allow for type-safe collections, but I'm not sure about the details of how to implement them or when to use them.
 Learning Goal: To understand how to create and use generic classes and methods, and to know best practices for working with generics.
 Request: Can you provide an explanation of Java generics with a simple code example, and then list some best practices for using generics in Java?
+Format: README.md 
 ```
 
 ## Interactive Java Teacher Prompt for Claude AI

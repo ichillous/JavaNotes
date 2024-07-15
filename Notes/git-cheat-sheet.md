@@ -83,5 +83,5 @@ isiahchillous Desktop/test/git git %
 
 ### Results in Github : 
 
-![[github-screenshot.png]]
+![github-screenshot](https://github.com/user-attachments/assets/d60e77d9-b295-41ed-a7d0-fbe47769bdf0)
 

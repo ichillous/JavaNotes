@@ -131,5 +131,5 @@ My first request is: [Insert your specific career-related question or request he
 3. Paste the modified prompt into your conversation with Claude AI.
 4. Engage with Claude as if it were your personal career advisor, asking for guidance on various aspects of your job search and career development.
 
-## Example Interaction:
+
 </details>

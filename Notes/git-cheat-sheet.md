@@ -1,4 +1,6 @@
-![[../assets/directory-strcut-ex.png]]
+<img width="631" alt="directory-structure-example" src="https://github.com/user-attachments/assets/436dc0d9-1ddf-4021-89ff-14ff2b0ece2a">
+
+
 ### Terminal commands:
 
 1. ls - List directory contents Example: `ls -la`

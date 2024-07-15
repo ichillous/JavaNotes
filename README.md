@@ -108,6 +108,9 @@ My first request is: [Insert your specific career-related question or request he
 ## Example Interaction:
 </details>
 
+## Git/Github Cheat Sheet: 
+- [ ] [Git Cheat Sheet](/Notes/git-cheat-sheet.md#github-cheat-sheet)
+
 ## Table of Contents
 1. [Introduction to Java](/Notes/Basics.md#introduction-to-java-basics)
 2. [Java Programming Fundamentals](/Notes/Fundementals.md#java-programming-fundamentals)

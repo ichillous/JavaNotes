@@ -1,4 +1,4 @@
-![[directory-strcut-ex.png]]
+![[../assets/directory-strcut-ex.png]]
 ### Terminal commands:
 
 1. ls - List directory contents Example: `ls -la`

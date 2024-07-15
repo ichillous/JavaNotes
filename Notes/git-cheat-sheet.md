@@ -9,6 +9,7 @@
 	- `cd - `Switch to the previous working directory.
 	- `cd .. `Move up one directory level.
 	- `cd ../../ `Move up two directory levels.
+ 	- `..` Move Back 1 directory level.  	
 1. mkdir - Make directory Example: `mkdir new_folder`
 2. rm - Remove files or directories Example: `rm file.txt` or `rm -r directory`
 3. cp - Copy files or directories Example: `cp file.txt backup_file.txt`

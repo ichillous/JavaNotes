@@ -39,7 +39,7 @@ Remember, while Claude AI is a powerful tool, always verify the information prov
 
 ### Extras:
 - [System.out examples ](/Notes/system-out.md#)
-
+- [Array Class Methods with examples](Notes/AdditionalTopics#)
 - [Java Format Specifiers](/Notes/format-specifiers.md#)
 
 

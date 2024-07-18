@@ -41,6 +41,7 @@ Remember, while Claude AI is a powerful tool, always verify the information prov
 - [System.out examples ](/Notes/system-out.md#)
 - [Array Class Methods with examples](Notes/Additional%20Topics/ArrayMethodsandBestPractices.md#)
 - [Java Format Specifiers](/Notes/format-specifiers.md#)
+- [Java OOP Guide](/Notes/Additional%20Topics/Java-OOP-Guide.md#)
 
 
 

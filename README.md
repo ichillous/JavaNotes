@@ -1,8 +1,8 @@
 # Java Learning with Claude AI
 
 <div align-items="row">
-  <img src="assets/claude-ai-icon.webp" alt="Java Logo" width="300" height="auto">
-  <img src="assets/javalogo.png" alt="Java Logo" width="325" height="auto">
+  <img src="assets/claude-ai-icon.webp" alt="Java Logo" width="auto" height="100em" >
+  <img src="assets/javalogo.png" alt="Java Logo" width="auto" height="100em" >
 </div>
 </br>
 This repository contains notes on various Java topics. Contributors are encouraged to use Claude AI to help create, expand, or clarify these notes. Below is a template for how to structure your prompts when working with Claude AI.
@@ -25,7 +25,7 @@ Remember, while Claude AI is a powerful tool, always verify the information prov
 
 ## Git/Github Cheat Sheet: 
 - [Git Cheat Sheet](/Notes/git-cheat-sheet.md#github-cheat-sheet)
-- Github Cheat Sheet (TODO)
+- [Github Cheat Sheet](/Notes/GithubCheatSheet.md#github-cheat-sheet)
 
 ## Table of Contents
 1. [Introduction to Java](/Notes/Basics.md#introduction-to-java-basics)

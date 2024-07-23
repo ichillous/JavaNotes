@@ -1,8 +1,6 @@
 # 🚀 GitHub Cheat Sheet 🛠️
 
-<div background-color="#bde0fe" padding="20px" display="inline-block" border-radius="10px">
-  <img src="assets/githublogo.png" alt="Github Logo" width="auto" height="100em">
-</div>
+  <img src="../assets/githublogo.png" alt="Github Logo" width="auto" height="100em" >
 
 ## 📚 Table of Contents
 - [🌟 Introduction](#-introduction)

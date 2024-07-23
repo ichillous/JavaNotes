@@ -1,5 +1,10 @@
 # Java Learning with Claude AI
 
+<div align-items="row">
+  <img src="assets/claude-ai-icon.webp" alt="Java Logo" width="300" height="auto">
+  <img src="assets/javalogo.png" alt="Java Logo" width="325" height="auto">
+</div>
+</br>
 This repository contains notes on various Java topics. Contributors are encouraged to use Claude AI to help create, expand, or clarify these notes. Below is a template for how to structure your prompts when working with Claude AI.
 
 ### Tips for Effective Prompts:

@@ -24,7 +24,7 @@ This repository contains notes on various Java topics. Contributors are encourag
 Remember, while Claude AI is a powerful tool, always verify the information provided and test any code examples. Happy learning and contributing!
 
 ## Git/Github Cheat Sheet: 
-- [Git Cheat Sheet](/Notes/git-cheat-sheet.md#github-cheat-sheet)
+- [Terminal-Git Cheat Sheet](/Notes/git-cheat-sheet.md#github-cheat-sheet)
 - [Github Cheat Sheet](/Notes/GithubCheatSheet.md#github-cheat-sheet)
 
 ## Table of Contents

@@ -39,9 +39,10 @@ Remember, while Claude AI is a powerful tool, always verify the information prov
 9. [Java Encapsulation and Inheritance](/Notes/JavaEncpsulationandInheritence.md#java-encapsulation-and-inheritance)
 10. [Polymorphism, Object Type Casting, Abstraction, Interfaces](/Notes/Polymorphism,ObjectTypeCasting,Abstraction,Interfaces.md#)
 11. [Generic and Java Collection Classes](/Notes/GenericandJavaCollectionClasses.md#)
-12. [Exception Handling](/Notes/ExceptionHandling.md#)
-13. [Java Files and Java IO](/Notes/JavaFilesandJavaIO.md#)
-14. [Functional Programming and Lambda Expressions](/Notes/functional-programming-and-lambda-expressions.md#)
+12. [Collections: Lists, Stacks, Queues, and Priority Queues](/Notes/JavaCollections.md#)
+13. [Exception Handling](/Notes/ExceptionHandling.md#)
+14. [Java Files and Java IO](/Notes/JavaFilesandJavaIO.md#)
+15. [Functional Programming and Lambda Expressions](/Notes/functional-programming-and-lambda-expressions.md#)
 
 ### Extras:
 - [System.out examples ](/Notes/system-out.md#)

@@ -21,6 +21,7 @@
 
 Imagine you're writing in your journnal. The paper you write on is like a file in Java. Just as you can write in your journal or read from it later, in Java, we can create files to store information (write) and access that information later (read).
 Java IO, which stands for Input/Output, is like the pen you use to write in your journal or the eyes you use to read it. It's a set of tools Java gives us to work with files and other sources of information.
+
 Java I/O (Input/Output) is used to process the input and produce the output. Java uses the concept of streams to make I/O operations fast and efficient. The `java.io` package contains all the classes required for input and output operations.
 
 

@@ -60,6 +60,7 @@
 - [Array Class Methods with examples](Notes/Additional%20Topics/ArrayMethodsandBestPractices.md#) 
 - [Java Format Specifiers](Notes/format-specifiers.md#)
 - [Java OOP Guide](Notes/Additional%20Topics/Java-OOP-Guide.md#)
+- [Scanner guide](Notes/Scanner.md#)
 
 ## 🛠️ Git/Github Cheat Sheets
 

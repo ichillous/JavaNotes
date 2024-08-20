@@ -2,7 +2,7 @@
   <img src="/assets/itworks.jpeg" alt="Claude AI and Java Logos" width="400">
 </div>
 
-<h1 align="center">🚀 Java Learning with Claude AI 🤖</h1>
+<h1 align="center">🚀 Learning Java? 🤖</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">

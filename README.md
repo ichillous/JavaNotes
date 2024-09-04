@@ -12,27 +12,7 @@
 </p>
 
 <p align="center">
-  This repository contains notes on various Java topics. Contributors are encouraged to use <strong>Claude AI</strong> to help create, expand, or clarify these notes. Below is a template for how to structure your prompts when working with Claude AI.
-</p>
-
-## 🎯 Tips for Effective Prompts
-
-1. 📌 Be specific about the Java topic you're addressing.
-2. 📈 Clearly state your current level of understanding.
-3. 🎓 Define your learning goal or what you hope to achieve.
-4. 🙋 Make a specific request for the type of information or help you need.
-5. ❓ If you need clarification, don't hesitate to ask follow-up questions.
-
-## 🤝 Contributing Process
-
-1. 📂 Choose a Java topic from the issues list or create a new one.
-2. 💬 Use the prompt template to ask Claude AI for help understanding the topic.
-3. 🔍 Review and refine the information provided by Claude.
-4. 📝 Create or update the appropriate `.md` file in the repository with your notes.
-5. 🚀 Submit a pull request with your changes.
-
-<p align="center">
-  Remember, while Claude AI is a powerful tool, always verify the information provided and test any code examples. Happy learning and contributing! 😄
+  This repository contains notes on various Java topics. 
 </p>
 
 ## 📚 Table of Contents
@@ -69,26 +49,6 @@
 
 <details>
 <summary>🤖 Prompts</summary>
-
-### How to Use Claude AI for Contributing
-
-When using Claude AI to help with your contributions, follow this general structure for your prompts:
-
-- **Topic**: [Specific Java topic you're working on]
-- **Current Understanding**: [Brief description of what you already know or think you know about the topic] 
-- **Learning Goal**: [What you want to learn or clarify about the topic]
-- **Request**: [Specific ask for Claude, e.g., explanation, code example, best practices]
-- **Format**: README.md style
-
-**Example Prompt**:
-
-```
-Topic: Java Generics
-Current Understanding: I know that generics allow for type-safe collections, but I'm not sure about the details of how to implement them or when to use them.
-Learning Goal: To understand how to create and use generic classes and methods, and to know best practices for working with generics.
-Request: Can you provide an explanation of Java generics with a simple code example, and then list some best practices for using generics in Java?
-Format: README.md
-```
 
 ### Interactive Java Teacher Prompt for Claude AI
 
